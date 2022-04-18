@@ -1,0 +1,4 @@
+var person = {
+    firstName: "Anna";
+    age: 1
+}

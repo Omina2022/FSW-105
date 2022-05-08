@@ -1,0 +1,7 @@
+var fruit = ["banana", "apple", "orange", "watermelon"];
+var vegetables = ["carrot", "tomato", "pepper", "lettuce"];
+
+function arrayExercise (){
+    vegetables =pop()
+console.log("vegetables: ", vegetables);
+}

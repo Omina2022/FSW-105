@@ -1,0 +1,4 @@
+var readlineSync = require("readline-sync");
+
+var name = readlineSync.question("May I have your name ? ");
+readlineSync.question= (`Welcome` +name +`,are ready fo for the game. click enter to start the game.``) 
